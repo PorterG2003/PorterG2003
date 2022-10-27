@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PorterG2003
-- 👀 I’m interested in crypto currencies, artificial intellegence, and machine learning
-- 🌱 I’m currently learning Crypto APIs
-- 💞️ I’m looking to collaborate on a crypto trading bot
+- 👀 I’m interested in artificial intellegence, and machine learning, data analytics, web development
 - 📫 How to reach me: porterg2003@gmail.com or Discord: PorterG2003#2423
 
 <!---
